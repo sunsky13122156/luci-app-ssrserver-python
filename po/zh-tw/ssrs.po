@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "SSR Python Server"
+msgstr "SSR Python 伺服器"
+
+msgid "ShadowSocksR Server Config"
+msgstr "ShadowsocksR Python 伺服器設定"
+
+msgid "Global Setting"
+msgstr "全域設定"
+
+msgid "Encrypt Method"
+msgstr "加密"
+
+msgid "Protocol_param"
+msgstr "協議參數"
+
+msgid "Obfs"
+msgstr "混淆"
+
+msgid "Obfs_param"
+msgstr "混淆參數"
+
+msgid "redirect"
+msgstr "重導向"
+
+msgid "Connection Timeout"
+msgstr "連接逾時時間"
+
+msgid "ShadowsocksR Python Server is a fork of the Shadowsocks project, claimed to be superior in terms of security and stability"
+msgstr "ShadowsocksR Python 伺服器是一個增加了協議參數與混淆的多功能版本"
+
+msgid "ShadowsocksR Python Server"
+msgstr "ShadowsocksR Python 伺服器"
