@@ -1,5 +1,5 @@
 # luci-app-ssrserver-python
-luci-app-ssrserver-python.ipk, Port from https://github.com/coolsnowwolf/packages
+luci-app-ssrserver-python.ipk, Port from https://github.com/coolsnowwolf/lede
 
 
 
